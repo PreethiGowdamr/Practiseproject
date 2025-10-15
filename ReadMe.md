@@ -1,7 +1,7 @@
-<!DOCTYPE html> 
+c<!DOCTYPE html> 
 <html> 
 <head> 
-<title> Testing <title> 
+<title> Testingproject <title> 
 </head> 
 <body> 
 <h3> test git anf github</h3> 
